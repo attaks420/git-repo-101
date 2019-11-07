@@ -1,4 +1,5 @@
-Should You Rent A Home, Or Should You Buy ?
+﻿Should You Rent A Home, Or Should You Buy ?
+Please add the Header. (This is a merge conflict example)
 
 
 1. Do you have enough saved?
